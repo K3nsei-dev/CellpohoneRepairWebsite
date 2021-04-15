@@ -1,0 +1,36 @@
+#navbar {
+  background-color: #f26522;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  padding: 10px 10%;
+}
+
+.navbar-links {
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  list-style-type: none;
+}
+
+.mobile-button {
+  display: none;
+}
+
+.navbar-link {
+  font-size: 15px;
+  margin: 10px;
+  white-space: nowrap;
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-link a {
+  color: white;
+  text-decoration: white;
+}
+
+.icon {
+  color: white;
+}

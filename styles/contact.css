@@ -1,0 +1,50 @@
+#contact {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 10%;
+}
+
+.contact-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.contact-wrapper > div {
+  display: flex;
+  align-items: center;
+}
+
+.contact-number {
+  color: #f26522;
+}
+
+.contact-work {
+  color: #f26522;
+}
+
+.button {
+  background-color: #f26522;
+  padding: 10px 10%;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.contact-details p {
+  white-space: nowrap;
+}
+
+.contact-details i {
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+.contact-details {
+  margin-right: 10px;
+}
